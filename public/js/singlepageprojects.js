@@ -1460,6 +1460,6 @@ runCode();
       });
 
 
-    openPopup(0,'hide');
+    openPopup(0,'close');
     
     scene(0);
